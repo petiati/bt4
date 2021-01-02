@@ -26,4 +26,8 @@ Tartalmat lehet igazítani, például meg lehet adni, hogy md méret felett igaz
 * igazítás: https://getbootstrap.com/docs/4.4/layout/grid/#alignment
 *oszlop sorrend rendezés: https://getbootstrap.com/docs/4.4/layout/grid/#reordering
 * offset: https://getbootstrap.com/docs/4.4/layout/grid/#offsetting-columns
-* margó: https://getbootstrap.com/docs/4.4/layout/grid/#margin-utilities
+* margó: https://getbootstrap.com/docs/4.4/layout/grid/#margin-utilitiesű
+
+## Mintaoldal
+
+Amit lekoppintottunk a tanfolyam során https://getbootstrap.com/docs/4.0/examples/justified-nav/ . Itt szó szerinti lemásolásról és átírásról van szó, mivel az oldal forrását másoltuk le és tettük be az index.html-be.
